@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f8742d5-d074-4f35-9ccb-d8352fa0c247" name="Changes" comment="feat: Add CalculatorExecute class.&#10;feat: Add calculator Java file .jar" />
+    <list default="true" id="8f8742d5-d074-4f35-9ccb-d8352fa0c247" name="Changes" comment="feat: Add calculator Java file .jar">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,6 +61,9 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -130,7 +135,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1686178377112</updated>
-      <workItem from="1686178378331" duration="2431000" />
+      <workItem from="1686178378331" duration="3276000" />
     </task>
     <task id="LOCAL-00001" summary="feat: Add Calculator class with operations and unit test.">
       <created>1686179016665</created>
@@ -160,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686180077609</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="feat: Add calculator Java file .jar">
+      <created>1686182492762</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1686182492762</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,6 +193,7 @@
     <MESSAGE value="feat: Add Calculator class with operations and unit test." />
     <MESSAGE value="feat: Add CalculatorTestWithParameters class." />
     <MESSAGE value="feat: Add CalculatorExecute class.&#10;feat: Add calculator Java file .jar" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Add CalculatorExecute class.&#10;feat: Add calculator Java file .jar" />
+    <MESSAGE value="feat: Add calculator Java file .jar" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Add calculator Java file .jar" />
   </component>
 </project>
