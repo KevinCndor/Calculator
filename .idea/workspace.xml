@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f8742d5-d074-4f35-9ccb-d8352fa0c247" name="Changes" comment="feat: reload the Java .jar">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8f8742d5-d074-4f35-9ccb-d8352fa0c247" name="Changes" comment="feat: reload the Java .jar" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -139,7 +136,7 @@
       <option name="presentableId" value="Default" />
       <updated>1686178377112</updated>
       <workItem from="1686178378331" duration="3747000" />
-      <workItem from="1686183105592" duration="183000" />
+      <workItem from="1686183105592" duration="665000" />
     </task>
     <task id="LOCAL-00001" summary="feat: Add Calculator class with operations and unit test.">
       <created>1686179016665</created>
@@ -190,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686182977471</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="feat: reload the Java .jar">
+      <created>1686183330646</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1686183330646</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
