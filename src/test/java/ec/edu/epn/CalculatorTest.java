@@ -32,4 +32,11 @@ public class CalculatorTest {
         assertEquals(2,c.division(10,5));
     }
 
+
+    /* Unit test para la nueva operación*/
+    @Test
+    public void given_a_number_when_square_root_then_ok(){
+        assertEquals(10.0,c.raizCuadrada(100),0.0001);
+    }
+
 }
