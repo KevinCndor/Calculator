@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f8742d5-d074-4f35-9ccb-d8352fa0c247" name="Changes" comment="feat: Add CalculatorTestWithParameters class.">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ec/edu/epn/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ec/edu/epn/CalculatorExecute.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ec/edu/epn/Main.class" beforeDir="false" />
-    </list>
+    <list default="true" id="8f8742d5-d074-4f35-9ccb-d8352fa0c247" name="Changes" comment="feat: Add CalculatorExecute class.&#10;feat: Add calculator Java file .jar" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -135,7 +130,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1686178377112</updated>
-      <workItem from="1686178378331" duration="1590000" />
+      <workItem from="1686178378331" duration="2431000" />
     </task>
     <task id="LOCAL-00001" summary="feat: Add Calculator class with operations and unit test.">
       <created>1686179016665</created>
@@ -151,7 +146,21 @@
       <option name="project" value="LOCAL" />
       <updated>1686179129121</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="feat: Add CalculatorExecute class.&#10;feat: Add calculator Java file .jar">
+      <created>1686180062528</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1686180062528</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feat: Add CalculatorExecute class.&#10;feat: Add calculator Java file .jar">
+      <created>1686180077609</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1686180077609</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,6 +180,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: Add Calculator class with operations and unit test." />
     <MESSAGE value="feat: Add CalculatorTestWithParameters class." />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Add CalculatorTestWithParameters class." />
+    <MESSAGE value="feat: Add CalculatorExecute class.&#10;feat: Add calculator Java file .jar" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Add CalculatorExecute class.&#10;feat: Add calculator Java file .jar" />
   </component>
 </project>
