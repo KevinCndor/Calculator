@@ -62,7 +62,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "SDKs",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.43218392",
     "settings.editor.selected.configurable": "configurable.group.tools",
@@ -138,7 +138,7 @@
       <option name="presentableId" value="Default" />
       <updated>1686178377112</updated>
       <workItem from="1686178378331" duration="3747000" />
-      <workItem from="1686183105592" duration="2042000" />
+      <workItem from="1686183105592" duration="2848000" />
     </task>
     <task id="LOCAL-00001" summary="feat: Add Calculator class with operations and unit test.">
       <created>1686179016665</created>
@@ -210,7 +210,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686184143965</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="feat: reload the Java .jar">
+      <created>1686185284407</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1686185284407</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
